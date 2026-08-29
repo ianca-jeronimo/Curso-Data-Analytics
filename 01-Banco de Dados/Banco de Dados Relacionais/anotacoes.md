@@ -1,1 +1,9 @@
+  # Conceitos e Fundamentos 
+- Stack: Conjunto de tecnologias ou ferramentas
+- PK = Chave Primária (informação única)
+- Chave Estrangeira: geralmente vem de uma chave primária e pode se repetir.
+- Chave Candidata: tem as características para ser uma pk (pois utilizada consigo identificar um único registro)
+- Manipular o dado = Manusear (NÃO É FRAUDE)
+
+# Postgre SQL (Open Source - Gratuito)
 

@@ -17,4 +17,17 @@
 - Arquivos
 - DDL: define a estrutura do banco de dados
 - DML: é o conjunto de comandos responsáveis pela manipulação dos dados armazenados nas estruturas do banco.
-- 
+- CONCLUIR ANOTAÇÕES
+
+# Aula 03 - Fundamentos para Modelagem de Dados 
+- Modelagem no BRMODELO
+
+
+
+
+
+
+
+
+
+
